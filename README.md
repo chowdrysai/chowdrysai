@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on : **Implementing microservices architecture with cloud-based services.**
 - 🌱 I’m currently learning : **Typescript,Next.js and cloud services**
-- 👯 I’m looking to collaborate on : **Full stack developer.**
+- 👯 I’m looking to collaborate on : **Full stack Applications.**
 - 💬 Ask me about : **JavaScript,Node.js,React and redux and other related things**
 - ⚡ Fun fact : **I am coding.**
 
